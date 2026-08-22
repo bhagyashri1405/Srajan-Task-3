@@ -105,7 +105,7 @@ a topic, technology area, or competitor name, and the agent will reason through
 what to investigate and return a briefing.
 
 ## Screenshots / Demo Link
-- **Live demo:** [add your deployed Streamlit link here]
+- **Live demo:** https://srajan4.streamlit.app/
 - **Screenshots:** <img width="1600" height="824" alt="WhatsApp Image 2026-08-22 at 4 27 38 PM" src="https://github.com/user-attachments/assets/a39d05e0-1c06-4a9d-a326-1b0098bc6cc5" />
 <img width="1600" height="824" alt="WhatsApp Image 2026-08-22 at 4 28 32 PM" src="https://github.com/user-attachments/assets/50d4b821-a21b-4b66-8334-5d19e1e707b1" />
 
